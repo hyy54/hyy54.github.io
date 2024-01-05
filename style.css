@@ -169,6 +169,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    
 }
 
 .contentlogo img{
@@ -195,11 +196,10 @@ body {
     color: #f39393;
     text-align: left;
     font-family: "Inika-Regular", sans-serif;
-    font-size: 40px;
+    font-size: 38px;
     font-weight: 400;
     position: absolute;
-    left: 22%;
-    top: 128%;
+    padding-top: 715px;
     width: 843px;
     height: 324px;
     transform-origin: 0 0;
@@ -207,7 +207,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    
   }
 
   .div-4-span {
@@ -216,88 +215,58 @@ body {
     font-size: 40px;
     font-weight: 400;
   }
-  .div-4-span2 {
-    color: #f39393;
-    font-family: "Inika-Regular", sans-serif;
-    font-size: 40px;
-    font-weight: 400;
-    text-decoration: underline;
-  }
-  .div-4-span3 {
-    color: #f39393;
-    font-family: "Inika-Regular", sans-serif;
-    font-size: 40px;
-    font-weight: 400;
-  }
-  .div-4-span4 {
-    color: #f39393;
-    font-family: "Inika-Regular", sans-serif;
-    font-size: 40px;
-    font-weight: 400;
-    text-decoration: underline;
-  }
-  .div-4-span5 {
-    color: #f39393;
-    font-family: "Inika-Regular", sans-serif;
-    font-size: 40px;
-    font-weight: 400;
-  }
+
   .div5 {
+    position:absolute;
     color: #c87343;
     text-align: left;
     font-family: "Inika-Regular", sans-serif;
     font-size: 40px;
     font-weight: 400;
     position: absolute;
-    left: 47%;
-    top: 118%;
+    padding-top: 670px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
   }
   .rectangle-2 {
+    position:absolute;
     background: #ffd8d8;
     border-radius: 30px;
     width: 917px;
-    height: 369px;
-    position: absolute;
-    left: 20%;
-    top: 123%;
+    height: 351px;
+    top: 750px;
   }
   .rectangle-3 {
+    position:absolute;
     background: #fff384;
     border-radius: 50px;
-    width: 248px;
-    height: 97px;
-    position: absolute;
-    left: 41%;
-    top: 115%;
-    
+    width: 220px;
+    height: 90px;
+    top: 700px; 
   }
 
   .rectangle-5 * {
     box-sizing: border-box;
   }
   .rectangle-5 {
+    position:absolute;
     background: #ffd8d8;
     border-radius: 30px;
     width: 917px;
-    height: 584px;
-    position: absolute;
-    left: 20%;
-    top: 200%;
+    height: 534px;
+    top: 1200px;
   }
   .rectangle-4 * {
     box-sizing: border-box;
   }
   .rectangle-4 {
+    position:absolute;
     background: #fff384;
     border-radius: 50px;
-    width: 248px;
-    height: 97px;
-    position: absolute;
-    left: 41%;
-    top: 195%;
+    width: 220px;
+    height: 90px;
+    top: 1150px; 
   }
   .rectangle-5 iframe {
     border-radius: 20px;
@@ -305,17 +274,17 @@ body {
     height: 441px;
     position: relative;
     left: 7%;
-    top: 15%;
+    top: 55px;
   }
   .div6 {
+    position:absolute;
     color: #c87343;
     text-align: left;
     font-family: "Inika-Regular", sans-serif;
     font-size: 40px;
     font-weight: 400;
     position: absolute;
-    left: 47%;
-    top: 200%;
+    padding-top: 1120px;
     display: flex;
     align-items: center;
     justify-content: flex-start;
